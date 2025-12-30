@@ -1,16 +1,8 @@
 Title: Radiance VJ software
-display_title: Video art software designed for live performance
+display_title: Free and open-source video art software designed for live performance
 Illustration: spiral_fractal.jpg
 url: 
 save_as: index.html
-
-<div class="big">
-Radiance is free and open source VJ software.
-</div>
-
-<div class="bigger">
-<a href="https://github.com/zbanks/radiance/releases">Download for Linux, Windows, or MacOS</a>
-</div>
 
 <iframe style="display: block; margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/cVuZatatKus?si=WvmESQuWXDGaNcUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
