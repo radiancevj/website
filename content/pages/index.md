@@ -9,22 +9,19 @@ Radiance is free and open source VJ software.
 </div>
 
 <div class="bigger">
-<a href="https://github.com/zbanks/radiance/releases">Download for Linux or Mac</a>
+<a href="https://github.com/zbanks/radiance/releases">Download for Linux, Windows, or MacOS</a>
 </div>
 
-<video autoplay loop>
-<source src="videos/basic_usage.mp4" type="video/mp4">
-<source src="videos/basic_usage.webm" type="video/webm">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cVuZatatKus?si=WvmESQuWXDGaNcUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Features
 
 ## GPU-based shader effects
 
 Chain together simple building blocks to create fantastic video effects.
-All rendering is GPU-accelerated for good performance, even on laptops.
+All rendering is GPU-accelerated for good performance.
 Radiance comes pre-loaded with over 150 effects,
-which are written in GLSL and can be edited live.
+which are written in WGSL and can be edited live.
 
 ## Media
 
@@ -44,8 +41,5 @@ and will slow down or speed up along with the music.
 ## Performance-ready
 
 Radiance is designed with live performance in mind.
-Patterns are easy to create and tweak on the fly,
-whether it be from a laptop touchpad or a MIDI DJ controller.
-Output to a projector, a custom lighting display,
-or combine both in the same workflow
-for a coordinated light show.
+Patterns are easy to create and tweak on the fly.
+Output to one or more screens or use the built-in projection mapping editor.
